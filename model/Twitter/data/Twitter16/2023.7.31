@@ -1,0 +1,22 @@
+LSUPERGAT
+Early stopping
+Total_Test_Accuracy: 0.8597|NR F1: 0.7842|FR F1: 0.8576|TR F1: 0.9264|UR F1: 0.8541
+
+Early stopping
+Total_Test_Accuracy: 0.8633|NR F1: 0.7862|FR F1: 0.8676|TR F1: 0.9305|UR F1: 0.8553
+Early stopping
+Total_Test_Accuracy: 0.8514|NR F1: 0.7764|FR F1: 0.8425|TR F1: 0.9179|UR F1: 0.8493
+BEST Accuracy: 0.8672|NR F1: 0.8122|FR F1: 0.8667|TR F1: 0.9438|UR F1: 0.8555
+Early stopping
+Total_Test_Accuracy: 0.8659|NR F1: 0.7934|FR F1: 0.8572|TR F1: 0.9303|UR F1: 0.8668
+Early stopping
+Total_Test_Accuracy: 0.8587|NR F1: 0.7746|FR F1: 0.8504|TR F1: 0.9294|UR F1: 0.8633
+BEST Accuracy: 0.8660|NR F1: 0.8145|FR F1: 0.8167|TR F1: 0.9507|UR F1: 0.8794
+Early stopping
+Total_Test_Accuracy: 0.8672|NR F1: 0.7845|FR F1: 0.8739|TR F1: 0.9317|UR F1: 0.8641
+Total_Test_Accuracy: 0.8577|NR F1: 0.7640|FR F1: 0.8715|TR F1: 0.9293|UR F1: 0.8448
+
+Process finished with exit code 0
+BEST Accuracy: 0.8647|NR F1: 0.7084|FR F1: 0.8529|TR F1: 0.9138|UR F1: 0.8972
+Early stopping
+Total_Test_Accuracy: 0.8566|NR F1: 0.7743|FR F1: 0.8566|TR F1: 0.9304|UR F1: 0.8476

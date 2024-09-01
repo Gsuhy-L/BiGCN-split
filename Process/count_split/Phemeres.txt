@@ -1,0 +1,25 @@
+0Total_Test_ Accuracy: 0.8665|acc1: 0.8665|acc2: 0.8665|pre1: 0.8941|pre2: 0.8152|rec1: 0.9041|rec2: 0.7946|F1: 0.8982|F2: 0.8017
+5Total_Test_ Accuracy: 0.8650|acc1: 0.8650|acc2: 0.8650|pre1: 0.8868|pre2: 0.8227|rec1: 0.9103|rec2: 0.7786|F1: 0.8977|F2: 0.7973
+10Total_Test_ Accuracy: 0.8642|acc1: 0.8642|acc2: 0.8642|pre1: 0.8847|pre2: 0.8238|rec1: 0.9116|rec2: 0.7734|F1: 0.8973|F2: 0.7950
+
+0Total_Test_ Accuracy: 0.8665|acc1: 0.8665|acc2: 0.8665|pre1: 0.8941|pre2: 0.8152|rec1: 0.9041|rec2: 0.7946|F1: 0.8982|F2: 0.8017
+5Total_Test_ Accuracy: 0.8649|acc1: 0.8649|acc2: 0.8649|pre1: 0.8866|pre2: 0.8226|rec1: 0.9103|rec2: 0.7781|F1: 0.8976|F2: 0.7970
+10Total_Test_ Accuracy: 0.8642|acc1: 0.8642|acc2: 0.8642|pre1: 0.8847|pre2: 0.8238|rec1: 0.9116|rec2: 0.7734|F1: 0.8973|F2: 0.7950
+10Total_Test_ Accuracy: 0.8640|acc1: 0.8640|acc2: 0.8640|pre1: 0.8845|pre2: 0.8237|rec1: 0.9116|rec2: 0.7728|F1: 0.8971|F2: 0.7948
+15Total_Test_ Accuracy: 0.8647|acc1: 0.8647|acc2: 0.8647|pre1: 0.8844|pre2: 0.8259|rec1: 0.9129|rec2: 0.7722|F1: 0.8977|F2: 0.7954
+20Total_Test_ Accuracy: 0.8645|acc1: 0.8645|acc2: 0.8645|pre1: 0.8841|pre2: 0.8261|rec1: 0.9132|rec2: 0.7712|F1: 0.8977|F2: 0.7949
+25Total_Test_ Accuracy: 0.8647|acc1: 0.8647|acc2: 0.8647|pre1: 0.8841|pre2: 0.8266|rec1: 0.9135|rec2: 0.7712|F1: 0.8978|F2: 0.7951
+30Total_Test_ Accuracy: 0.8647|acc1: 0.8647|acc2: 0.8647|pre1: 0.8841|pre2: 0.8266|rec1: 0.9135|rec2: 0.7712|F1: 0.8978|F2: 0.7951
+35Total_Test_ Accuracy: 0.8647|acc1: 0.8647|acc2: 0.8647|pre1: 0.8841|pre2: 0.8266|rec1: 0.9135|rec2: 0.7712|F1: 0.8978|F2: 0.7951
+40Total_Test_ Accuracy: 0.8647|acc1: 0.8647|acc2: 0.8647|pre1: 0.8841|pre2: 0.8266|rec1: 0.9135|rec2: 0.7712|F1: 0.8978|F2: 0.7951
+45Total_Test_ Accuracy: 0.8647|acc1: 0.8647|acc2: 0.8647|pre1: 0.8841|pre2: 0.8266|rec1: 0.9135|rec2: 0.7712|F1: 0.8978|F2: 0.7951
+50Total_Test_ Accuracy: 0.8647|acc1: 0.8647|acc2: 0.8647|pre1: 0.8841|pre2: 0.8266|rec1: 0.9135|rec2: 0.7712|F1: 0.8978|F2: 0.7951
+55Total_Test_ Accuracy: 0.8645|acc1: 0.8645|acc2: 0.8645|pre1: 0.8838|pre2: 0.8265|rec1: 0.9135|rec2: 0.7706|F1: 0.8977|F2: 0.7948
+60Total_Test_ Accuracy: 0.8645|acc1: 0.8645|acc2: 0.8645|pre1: 0.8838|pre2: 0.8265|rec1: 0.9135|rec2: 0.7706|F1: 0.8977|F2: 0.7948
+65Total_Test_ Accuracy: 0.8645|acc1: 0.8645|acc2: 0.8645|pre1: 0.8838|pre2: 0.8265|rec1: 0.9135|rec2: 0.7706|F1: 0.8977|F2: 0.7948
+70Total_Test_ Accuracy: 0.8647|acc1: 0.8647|acc2: 0.8647|pre1: 0.8841|pre2: 0.8266|rec1: 0.9135|rec2: 0.7712|F1: 0.8978|F2: 0.7951
+75Total_Test_ Accuracy: 0.8647|acc1: 0.8647|acc2: 0.8647|pre1: 0.8841|pre2: 0.8266|rec1: 0.9135|rec2: 0.7712|F1: 0.8978|F2: 0.7951
+80Total_Test_ Accuracy: 0.8647|acc1: 0.8647|acc2: 0.8647|pre1: 0.8841|pre2: 0.8266|rec1: 0.9135|rec2: 0.7712|F1: 0.8978|F2: 0.7951
+85Total_Test_ Accuracy: 0.8645|acc1: 0.8645|acc2: 0.8645|pre1: 0.8838|pre2: 0.8265|rec1: 0.9135|rec2: 0.7706|F1: 0.8977|F2: 0.7948
+90Total_Test_ Accuracy: 0.8647|acc1: 0.8647|acc2: 0.8647|pre1: 0.8841|pre2: 0.8266|rec1: 0.9135|rec2: 0.7712|F1: 0.8978|F2: 0.7951
+95Total_Test_ Accuracy: 0.8645|acc1: 0.8645|acc2: 0.8645|pre1: 0.8838|pre2: 0.8265|rec1: 0.9135|rec2: 0.7706|F1: 0.8977|F2: 0.7948

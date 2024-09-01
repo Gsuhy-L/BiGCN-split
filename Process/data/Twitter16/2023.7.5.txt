@@ -1,0 +1,51 @@
+bi twitter16
+Early stopping
+Total_Test_Accuracy: 0.8554|NR F1: 0.7695|FR F1: 0.8540|TR F1: 0.9294|UR F1: 0.8513
+
+
+GRU TD
+Early stopping
+Total_Test_Accuracy: 0.8187|NR F1: 0.7417|FR F1: 0.8044|TR F1: 0.9047|UR F1: 0.8125
+
+
+GRU BI
+BEST Accuracy: 0.7812|NR F1: 0.7500|FR F1: 0.8333|TR F1: 0.9333|UR F1: 0.6154
+Early stopping
+Total_Test_Accuracy: 0.8194|NR F1: 0.7615|FR F1: 0.7904|TR F1: 0.9075|UR F1: 0.7852
+
+小区节点更节点增强
+Total_Test_Accuracy: 0.8485|NR F1: 0.7594|FR F1: 0.8549|TR F1: 0.9165|UR F1: 0.8409
+
+消去跟节点增强，使用注意力机制
+BEST Accuracy: 0.8647|NR F1: 0.7439|FR F1: 0.9035|TR F1: 0.9286|UR F1: 0.8308
+Early stopping
+Total_Test_Accuracy: 0.8586|NR F1: 0.7782|FR F1: 0.8607|TR F1: 0.9192|UR F1: 0.8621
+
+Process finished with exit code 0
+
+SUPERGAT
+Total_Test_Accuracy: 0.8548|NR F1: 0.7713|FR F1: 0.8547|TR F1: 0.9225|UR F1: 0.8596
+
+LCAT
+
+Total_Test_Accuracy: 0.8552|NR F1: 0.7747|FR F1: 0.8562|TR F1: 0.9280|UR F1: 0.8469
+
+supergat - with change
+
+Total_Test_Accuracy: 0.8597|NR F1: 0.7731|FR F1: 0.8670|TR F1: 0.9275|UR F1: 0.8595
+
+Total_Test_Accuracy: 0.8561|NR F1: 0.7622|FR F1: 0.8533|TR F1: 0.9206|UR F1: 0.8602
+
+Total_Test_Accuracy: 0.8554|NR F1: 0.7624|FR F1: 0.8629|TR F1: 0.9255|UR F1: 0.8535
+
+GAT 8598
+
+8574
+
+Total_Test_Accuracy: 0.8621|NR F1: 0.7867|FR F1: 0.8572|TR F1: 0.9275|UR F1: 0.8605
+
+SUPERGAT WITHCHANGE
+Total_Test_Accuracy: 0.8623|NR F1: 0.7909|FR F1: 0.8540|TR F1: 0.9269|UR F1: 0.8655
+Early stopping
+Total_Test_Accuracy: 0.8570|NR F1: 0.7622|FR F1: 0.8693|TR F1: 0.9175|UR F1: 0.8566
+Total_Test_Accuracy: 0.8573|NR F1: 0.7735|FR F1: 0.8494|TR F1: 0.9266|UR F1: 0.8603
